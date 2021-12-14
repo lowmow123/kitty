@@ -1,9 +1,9 @@
 #this is a simple python calculator
-#could be more, but ...
+#could be more...
 #you are welcome to add Kitty to your discord server (foc)
 #copy and paste the link below to your browser, you must be login first
 #https://discord.com/api/oauth2/authorize?client_id=786533215224987658&permissions=2048&scope=bot
-#ps: copied these from replit and it doesn't work, yet
+#ps: redeployed from replit to heroku, it works now
 
 import discord
 import os
@@ -133,14 +133,15 @@ async def on_message(message):
 			return
 		if len(q) == 2:
 			q = q[1]
-		ans = get_mz(q)
-		#ans="Sorry, we are upgrading. Please use eval."
+		#ans = get_mz(q)
+		ans="Sorry, we are upgrading. Please use eval."
 		await message.channel.send(ans)
 
 	#event after this is for lm only, dm got no guild name
 	if message.author.name != "lm":
 		return
 	if message.guild is not None and message.guild.name == "This is not a server.":
+		#deleted features
 		return
 
 
