@@ -3,7 +3,7 @@
 #you are welcome to add Kitty to your discord server (foc)
 #copy and paste the link below to your browser, you must be login first
 #https://discord.com/api/oauth2/authorize?client_id=786533215224987658&permissions=2048&scope=bot
-#ps: please run this script to wake Kitty up
+#ps: copied these from replit and it doesn't work, yet
 
 import discord
 import os
@@ -105,7 +105,7 @@ async def on_message(message):
 		quote = get_fortune()
 		await message.channel.send(quote)
 
-	#autorepond to sad words
+	#autorepond to keywords
 	if msg.startswith('Kitty help'):
 		q = msg
 		#print(q)
