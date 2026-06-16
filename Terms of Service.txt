@@ -1,27 +1,76 @@
-Terms of Service for Kitty
+		            Terms of Service for Kitty
+
 Effective Date: 1st July 2026
-Welcome to Kitty ("the Bot"). By inviting the Bot to your Discord server or interacting with it, you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these terms, please remove the Bot from your server and cease all interaction with it.
+
+Welcome to Kitty ("the Bot"). By inviting the Bot to your Discord
+server or interacting with it, you agree to be bound by these
+Terms of Service ("Terms"). If you do not agree to these terms,
+please remove the Bot from your server and cease all interaction
+with it.
+
 1. Eligibility and Discord Rules
-1.1 You must be at least 13 years old to use this Bot, in strict accordance with the Discord Age Limit Policy.
-1.2 You must comply with the official Discord Terms of Service and Discord Community Guidelines. Any violation of Discord's rules while using this Bot will result in an immediate ban from our service.
+1.1 You must be at least 13 years old to use this Bot, in strict
+accordance with the Discord Age Limit Policy.
+1.2 You must comply with the official Discord Terms of Service and
+Discord Community Guidelines. Any violation of Discord's rules while
+using this Bot will result in an immediate ban from our service.
+
 2. Services Provided
-2.1 Free Tier: The Bot offers core functionalities completely free of charge. We reserve the right to modify, limit, or change free features at any time without notice.
-2.2 Premium Tier: Optional paid features ("Premium Services") are available to enhance your experience. Access to these features requires a valid subscription or one-time payment.
-3. Payments, Billing, and CancellationsBilling: 
-3.1 If you purchase Premium Services, you agree to provide valid billing data through our approved third-party payment processors (e.g., Stripe, PayPal, or Discord App Subscriptions).
-3.2 Automatic Renewal: Subscription-based premium models renew automatically at the end of each billing cycle. You authorize us to charge your chosen payment method for the renewal.
-3.3 Cancellation: You may cancel your subscription at any time. Upon cancellation, you will retain premium access until the end of your current billing period, after which your account will revert to the Free tier.
-3.4 Refunds: All purchases are final. Refunds are given at the sole discretion of the development team, unless otherwise required by your local consumer protection laws.
+2.1 Free Tier: The Bot offers core functionalities completely free
+of charge. We reserve the right to modify, limit, or change free
+features at any time without notice.
+2.2 Premium Tier: Optional paid features ("Premium Services") are
+available to enhance your experience. Access to these features
+requires a valid subscription or one-time payment.
+
+3. Payments, Billing, and Cancellations
+3.1 Billing: If you purchase Premium Services, you agree to provide
+valid billing data through our approved third-party payment processors
+(e.g., Stripe, PayPal, or Discord App Subscriptions).
+3.2 Automatic Renewal: Subscription-based premium models renew
+automatically at the end of each billing cycle. You authorize us to
+charge your chosen payment method for the renewal.
+3.3 Cancellation: You may cancel your subscription at any time. Upon
+cancellation, you will retain premium access until the end of your
+current billing period, after which your account will revert to the
+Free tier.
+3.4 Refunds: All purchases are final. Refunds are given at the sole
+discretion of the development team, unless otherwise required by your
+local consumer protection laws.
+
 4. Prohibited Conduct
 You agree not to use the Bot to:
-4.1 Abuse, exploit, or duplicate bot commands to intentionally cause lag or crash the service.
-4.2 Reverse engineer, scrape, or attempt to steal the Bot’s source code.
-4.3 Use the Bot for any illegal activities or to distribute malicious content.
+4.1 Abuse, exploit, or duplicate bot commands to intentionally cause
+lag or crash the service.
+4.2 Reverse engineer, scrape, or attempt to steal the Bot’s source
+code.
+4.3 Use the Bot for any illegal activities or to distribute malicious
+content.
 4.4 Circumvent or bypass restrictions on free or premium features.
-5. Data PrivacyYour privacy is important to us. Please refer to our Privacy Policy [Insert Link to your Privacy Policy if you have one] to understand what data we collect (e.g., Server IDs, User IDs) and how we securely handle it.
-6. Termination of ServiceWe reserve the right to terminate or restrict your access to the Bot, including premium features, at our sole discretion, without notice or liability, if we believe you have breached these Terms.
-7. Disclaimer of WarrantiesThe Bot is provided "as is" and "as available." We make no guarantees that the service will be uninterrupted, error-free, or completely secure. We are not liable for any data loss, server downtime, or disruptions caused by external API failures (including Discord outages).
-8. Changes to These TermsWe may update these Terms from time to time. We will notify users of major changes via our official support server or a bot announcement banner. Continued use of the Bot after changes take effect constitutes acceptance of the new Terms.
-9. Contact UsIf you have any questions, complaints, or support requests regarding the Bot or your premium subscription, please contact us at:
+
+5. Data PrivacyYour privacy is important to us. Please refer to our
+Privacy Policy [Insert Link to your Privacy Policy if you have one]
+to understand what data we collect (e.g., Server IDs, User IDs) and
+how we securely handle it.
+
+6. Termination of Service
+We reserve the right to terminate or restrict your access to the Bot,
+including premium features, at our sole discretion, without notice or
+liability, if we believe you have breached these Terms.
+
+7. Disclaimer of WarrantiesThe Bot is provided "as is" and 
+"as available." We make no guarantees that the service will be
+uninterrupted, error-free, or completely secure. We are not liable for
+any data loss, server downtime, or disruptions caused by external API
+failures (including Discord outages).
+
+8. Changes to These TermsWe may update these Terms from time to time.
+We will notify users of major changes via our official support server
+or a bot announcement banner. Continued use of the Bot after changes
+take effect constitutes acceptance of the new Terms.
+
+9. Contact UsIf you have any questions, complaints, or support
+requests regarding the Bot or your premium subscription, please
+contact us at:
 9.1 Support Server: [Insert Discord Invite Link]
 9.2 Email: [Insert Support Email Address]
