@@ -1,0 +1,67 @@
+                 Privacy Policy for Kitty
+
+Effective Date: 1st July 2026
+
+This Privacy Policy explains how Kitty ("the Bot") collects, 
+uses, stores, and protects data from its users and Discord
+servers. By adding the Bot to your server or interacting with
+it, you agree to the data practices described below.
+
+1. Data We Collect
+We only collect the minimum amount of data necessary to provide
+and maintain the Bot's services. This may include:
+1.1 Discord Identifiers: User IDs, Server (Guild) IDs, and
+Channel IDs to route commands and save server-specific
+configurations.
+1.2 User Content: Specific command arguments or settings you
+input to customize the Bot.
+1.3 Premium Billing Data: If you purchase a subscription, our
+third-party payment processors (like Stripe, PayPal, or Discord)
+collect your payment information. We do not see or store your
+credit card details.
+1.4 Technical Logs: Temporary logs of bot errors and command
+usage to help us fix bugs and prevent abuse.
+
+2. How We Use Your Data
+We use the collected information strictly to:
+2.1 Run the Bot and provide its free and paid premium features.
+2.2 Save your custom settings, preferences, and premium status.
+2.3 Debug technical issues, improve performance, and prevent
+spam or malicious activity.
+
+3. Data Storage and Retention
+3.1 Storage Security: Your configuration data is stored securely
+using industry-standard databases and access controls.
+3.2 Retention Period: We keep your data only as long as
+necessary to provide the service.
+3.3 Data Deletion: If you remove (kick) the Bot from your
+server, your server's configuration data is automatically
+deleted or marked for deletion within [e.g., 30 days].
+
+4. Data Sharing and Third Parties
+We never sell or trade your personal data to third parties. We
+only share data with trusted services essential to operating
+the Bot:
+4.1 Discord Inc.: To process bot interactions via the official
+Discord API.
+4.2 Payment Processors: Stripe / PayPal / Discord App
+Subscriptions to securely handle premium transactions.
+
+5. Your Rights and Data Deletion Requests
+You have full control over your data. You have the right to
+request access to or deletion of any personal data we have
+stored.
+To request a complete deletion of your user or server data,
+please contact us via our Support Server or email listed below.
+
+6. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect
+changes in our bot or local privacy regulations. We will notify
+users of significant changes via a bot announcement banner or
+our official support server.
+
+7. Contact Us
+If you have any questions or would like to request data
+deletion, please contact us:
+Support Server: [not available yet]
+Email: [not available yet]
